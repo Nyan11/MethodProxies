@@ -8,7 +8,7 @@ A library to decorate and control method execution. Such library allows one to p
 EpMonitor disableDuring: [
 	Metacello new
 		baseline: 'MethodProxies';
-		repository: 'github://pharo-contributions/MethodProxies/src';
+		repository: 'github://Nyan11/MethodProxies/src';
 		load. ]
 ```
 
